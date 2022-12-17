@@ -1,3 +1,4 @@
+![sol](https://user-images.githubusercontent.com/6374773/208242995-f48a03c8-85df-4014-bc02-cb75f651c35c.png)
 # Solenoid-Lock-Interfacing-With-Arduino
 
 A Solenoid lock is just like a normal or manual lock. The difference is only the solenoid locks operate with the electricity. So this can be used at many places just like fingerprint security door lock.
